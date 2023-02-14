@@ -1,0 +1,22 @@
+
+img{
+    text-align: center;
+    margin-left: 600px;
+    margin-top: -100px;
+    margin-bottom: -75px;
+}
+div{
+    width: 100% ;
+    border: solid rgb(126, 126, 173) 2px;
+    border-radius: 20px 20px 20px 20px;
+}
+background{
+  width: 1080px;
+  height: 1920px;
+}
+video{
+    border-radius: 200px 200px 200px 200px;
+    margin-left: 690px;
+     width: 520px; 
+     height: auto;
+}
